@@ -69,7 +69,7 @@ main {
 }
 
 .current-details strong {
-  color: #f65282;
+  color: red;
 }
 
 .current-temperature-icon {
